@@ -1,0 +1,61 @@
+
+.cabecalho-inicio{
+	background-image: none;
+	height: 500px;
+}
+
+.cabecalho-inicio h1{
+	position: relative;
+	top: 7%;
+}
+
+.cabecalho-inicio nav{
+	position: relative;
+	top: 11%;
+}
+
+.cabecalho-inicio h2{
+	position: relative;
+	top: 40%;
+}
+
+.corpo{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	margin: 0 auto;
+	max-width: 1200px;
+}
+
+.corpo img{
+	width: 350px;
+	margin: 10px auto;
+}
+
+.imagem-redonda{
+	border: 1px solid black;
+	border-radius: 100%;
+}
+.conteudo{
+	margin-bottom: 5%;
+}
+
+.conteudo p{
+	max-width: 600px;
+}
+
+.conteudo h3{
+	margin-bottom: 5%;
+}
+
+.corpo ul{
+	max-width: 600px;
+}
+
+#final{
+	max-width: 1000px;
+	margin: 5% auto;
+	font-size: 27px;
+	text-align: center;
+}
+
