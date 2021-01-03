@@ -155,6 +155,9 @@ footer span{
 	color: #ffffff;
 	padding: 2%;
 }
+footer span a{
+      text-decoration: underline;
+}
 
 .destaque{
 	text-transform: uppercase;
